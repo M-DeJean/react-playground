@@ -1,9 +1,10 @@
 import React from 'react';
+import Demonym from './demonymApp/demonym'
 
 function App() {
   return (
     <main className='App'>
-      {/* content goes here */}
+      <Demonym />
     </main>
   );
 }
